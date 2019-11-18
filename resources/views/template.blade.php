@@ -39,7 +39,7 @@ Question 9/10 Number of days working on this project (add +1 from yesterday repo
 <h4 style="color:black;">STEP 3/4 : 3 questions about this today report :</h4>
 <p>1/3) First name of the developer who write the report : {{$forms->name_developer}}<br>
 2/3) Date of this report :&emsp;{{$forms->date_report}}<br>
-3/3) Hour (IST) of this report (can not be same than yesterday) :&emsp;<br></p>
+3/3) Hour (IST) of this report (can not be same than yesterday) :&emsp;{{$forms->Hour_report}}<br></p>
 
 
 <h4 style="color:black;">STEP 4/4 : 12 questions about : yesterday/today/tomorrow</h4>

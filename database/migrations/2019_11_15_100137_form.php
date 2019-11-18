@@ -26,7 +26,7 @@ class Form extends Migration
             $table->string('number_ofdays');
             $table->string('name_developer');
             $table->string('date_report');
-            $table->string('Hour(IST)_report');
+            $table->string('Hour_report');
             $table->rememberToken();
             $table->timestamps();
         });

@@ -59,7 +59,7 @@
 <td><input type="text" name='date_report'/></td>
 </tr>
 <td>Hour (IST) of this report :</td>
-<td><input type="text" name='Hour(IST)_report'/></td>
+<td><input type="text" name='Hour_report'/></td>
 </tr>
 </tr>
 <tr>

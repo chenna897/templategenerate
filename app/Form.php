@@ -13,7 +13,7 @@ class Form extends Model
      */
     protected $table = 'form';
     protected $fillable = [
-        'project_name', 'starting_date', 'current_link','production_urlserver','test_serverurl','database_technology','font_technology','number_deliveries','number_ofdays','name_developer','date_report','Hour(IST)_report',
+        'project_name', 'starting_date', 'current_link','production_urlserver','test_serverurl','database_technology','font_technology','number_deliveries','number_ofdays','name_developer','date_report','Hour_report',
     ];
 
     /**
